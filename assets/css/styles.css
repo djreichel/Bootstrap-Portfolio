@@ -182,7 +182,7 @@ p {
     padding-top: 15px;
     padding-bottom: 15px;
     float: left; 
-    position: absolute;
+    position: relative;
     z-index: 1;  
 }
 
