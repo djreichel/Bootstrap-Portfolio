@@ -59,19 +59,19 @@ body {
 }
 
 a:link   {
-    color: #777777;
+    color: #4aaaa5;
     background-color: transparent; 
     text-decoration: none;
 }
 
 a:visited   {
-    color: #777777;
+    color: #4aaaa5;
     background-color: transparent; 
     text-decoration: none;
 }
 
 a:active {
-    color: #777777;
+    color: #4aaaa5;
     background-color: transparent; 
     text-decoration: none;
     font-weight: bold;
